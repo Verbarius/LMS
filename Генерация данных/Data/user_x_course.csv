@@ -1,0 +1,11 @@
+user_id,course_id,course_role
+3,2,teacher
+3,4,teacher
+4,3,teacher
+4,4,teacher
+16,2,teacher
+16,1,teacher
+14,1,confidant
+14,2,confidant
+14,3,confidant
+15,3,confidant
