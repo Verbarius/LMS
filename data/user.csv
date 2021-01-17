@@ -1,0 +1,21 @@
+user_id,code,user_role,email,password,First_name,Surname,Middle_name,group_id,telephone,city,information,vk,facebook,linkedIn,instagram
+1,468918408,student,Pulikov@mail.ru,,Кен,Пуликов,Радимович,,+79152571894,Санкт-Петербург,Меня зовут Кен,https://vk.com/Ken78824,,,
+2,670589180,student,Barashikova@mail.ru,Naira76,Наира,Барашикова,Вениаминовна,,+79831866066,Санкт-Петербург,Меня зовут Наира,,,,https://www.instagram.com/Naira7270
+3,138791449,student,Smokov@mail.ru,,Тарранси,Смоков,Луканович,,+79103885182,Москва,Меня зовут Тарранси,,,https://linkedin.com/Tarransi39375,
+4,293032207,student,Mojartseva@mail.ru,,Данаша,Моярцева,Николаевна,,+79192442633,Санкт-Петербург,,,https://www.facebook.com/Danasha12292,,
+5,336966488,student,Mal'tsyn@mail.ru,,Брашье,Мальцын,Аполлосович,,+79190573222,Санкт-Петербург,,,https://www.facebook.com/Brash'e17485,https://linkedin.com/Brash'e20501,
+6,139668519,student,Latueva@mail.ru,,Мишела,Латуева,Бонифатиевна,,+79872359068,Махачкала,Меня зовут Мишела,https://vk.com/Mishela7788,,,
+7,209048233,student,Tamendarov@mail.ru,Mugashir76,Мугашир,Тамендаров,Агафангелович,,+79411581240,Новосибирск,,https://vk.com/Mugashir1726,https://www.facebook.com/Mugashir29996,https://linkedin.com/Mugashir32344,
+8,549092872,student,Taraskanova@mail.ru,,Рачи,Тарасканова,Варламиевна,,+79189811742,Москва,,https://vk.com/Rachi47817,,,https://www.instagram.com/Rachi21260
+9,825507914,student,Perinin@mail.ru,,Хьо,Перинин,Нефёдович,,+79155709870,Санкт-Петербург,Меня зовут Хьо,,,,https://www.instagram.com/H'o62516
+10,264772249,student,Glembotskaja@mail.ru,Evtropija63,Евтропия,Глембоцкая,Оскаровна,,+79234941061,Москва,,https://vk.com/Evtropija3359,,https://linkedin.com/Evtropija16189,https://www.instagram.com/Evtropija82816
+11,836054484,teacher,Minajkin@mail.ru,Dagij21,Дагий,Минайкин,Нестерович,,+79259873496,Санкт-Петербург,Меня зовут Дагий,,,https://linkedin.com/Dagij17246,
+12,309857986,student,Barymova@mail.ru,Eleniko2,Эленико,Барымова,Валериановна,,+79714413604,Махачкала,Меня зовут Эленико,,https://www.facebook.com/Eleniko25503,,
+13,723336393,student,Prituletskij@mail.ru,Mamikon31,Мамикон,Притулецкий,Фомич,,+79194974295,Москва,,https://vk.com/Mamikon22534,https://www.facebook.com/Mamikon46015,,
+14,237399614,student,Igolkina@mail.ru,,Даубика,Иголкина,Ермиловна,,+79782986301,Москва,,https://vk.com/Daubika99839,,,https://www.instagram.com/Daubika96765
+15,479024847,student,Skand'jarov@mail.ru,Archil56,Арчил,Скандьяров,Изосимович,,+79208884426,Казань,,,,https://linkedin.com/Archil60502,
+16,994161378,student,Burkovskaja@mail.ru,Kesli88,Кесли,Бурковская,Диомидовна,,+79476184594,Москва,Меня зовут Кесли,,https://www.facebook.com/Kesli20733,,https://www.instagram.com/Kesli29366
+17,710144080,student,Feliforov@mail.ru,,Денк,Фелифоров,Прохорович,,+79499297458,Москва,Меня зовут Денк,https://vk.com/Denk33894,https://www.facebook.com/Denk75252,,
+18,543127365,teacher,Korachentseva@mail.ru,,Дэйана,Кораченцева,Лавровна,,+79670817649,Казань,,,,,
+19,932484584,student,Lukin@mail.ru,,Горхэм,Лукин,Климентиевич,,+79239080296,Махачкала,,,https://www.facebook.com/Gorhem64875,https://linkedin.com/Gorhem62790,
+20,793836314,student,Katelevskaja@mail.ru,,Нефизе,Кателевская,Малховна,,+79119898494,Новосибирск,,https://vk.com/Nefize23489,,,https://www.instagram.com/Nefize30567

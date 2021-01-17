@@ -1,4 +1,5 @@
 from app import db
+from flask_login import UserMixin
 
 # constants start
 
@@ -6,7 +7,7 @@ from app import db
 
 
 # models start
-class User(db.Model):
+class User(UserMixin, db.Model):
     __tablename__ = "user"  # optional
 
     user_id = db.Column(db.Integer, primary_key=True)
