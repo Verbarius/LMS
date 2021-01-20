@@ -72,7 +72,7 @@ def show_info():
 
 @app.route('/show_all', methods=["POST"])
 @login_required
-def show_info():
+def get_info():
     return make_response(jsonify(Answer(200, "", utils.get_all_user_info(current_user))))
 
 

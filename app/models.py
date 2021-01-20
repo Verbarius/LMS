@@ -34,7 +34,7 @@ class User(UserMixin, db.Model):
 class Student(db.Model):
     __tablename__ = "student"  # optional
 
-    user_id = db.Column(db.Integer, primary_key=True, foreign_keys="user.user_id")
+    user_id = db.Column(db.Integer, primary_key=True)
     group_id = db.Column(db.Integer, primary_key=True)
     year_of_entry = db.Column(db.Integer)
     basis_of_education = db.Column(db.String(64))
